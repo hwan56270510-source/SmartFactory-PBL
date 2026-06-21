@@ -16,6 +16,8 @@ This module is responsible for all vision-related functions in the smart factory
 
 Captures images from the Intel RealSense D435 camera.
 
+This tool was used to collect approximately 400 custom training images for YOLO dataset construction.
+
 ### calibration_click_helper.py
 
 Used to select calibration points and generate coordinate mapping data.
